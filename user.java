@@ -1,3 +1,3 @@
-public class user{}
-{
+public class user{
+	private String name;
 }
